@@ -2,7 +2,7 @@
     "_comment": "This is a samle setting file",
     "func": [
         "x[1] + data.dic['params'][0] * x[0]",
-        "x[0] * x[0] +  data.dic['params'][1]"
+        "x[0] * x[0] * x[0] +  data.dic['params'][1]"
     ],
     "xrange": [
         -2.0,
